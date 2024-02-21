@@ -22,3 +22,14 @@ Cuando vayan subiendo información,  yo iré haciendo los merge de sus ramas a 
 Configuracion del github desde terminal,  Si ya lo tiene,  hacer caso omiso de lo que sigue. 
 
 - Después de descargar el github, puede configurar su cuenta para subir información desde terminal siguiendo el [siguiente instructivo](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffundatosudea%2Fmaterial_20242%2Fdevelop%2Fssh_github.pptx&wdOrigin=BROWSELINK).
+
+Instrucciones desde terminal 
+
+1. Copiar material a traducir desde el repositorio original https://github.com/data-8/materials-fa23
+2. Se puede realizar fork de data'8
+
+3. git clone git@github.com:fundatosudea/material_20242.git
+
+4. git checkout develop_english_material_fa23
+
+5. Copias el archivo a traductir a develop_nombre
