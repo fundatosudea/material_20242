@@ -5,7 +5,7 @@ rm -rf student_test/*
 rm -rf student_test
 
 # Ejecutar Otter assign
-otter assign hw01_.ipynb dist > log
+otter assign lab01_.ipynb dist > log
 
 # Verificar si el comando anterior fue exitoso
 if [ $? -eq 0 ]; then
